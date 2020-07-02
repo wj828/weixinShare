@@ -24,5 +24,5 @@ npm run dev
 
 http://localhost:8080  或 http://localhost:8080/index.html
 
-## 要是测试微信分享是否成功，请在微信开发者工具中测试，本地测试使用ngrok内网穿透，具体使用请看博客 
+要是测试微信分享是否成功，请在微信开发者工具中测试，本地测试使用ngrok内网穿透，具体使用请看博客 
 https://blog.csdn.net/wen_j/article/details/107026899

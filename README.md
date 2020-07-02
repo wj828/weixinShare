@@ -1,2 +1,4 @@
 # weixinShare
 微信JS-SDK分享接口实例开发及本地测试
+
+jssha不能用npm安装，因为npm安装的运行时候会报Chosen SHA variant is not supported,必须使用官网提供的sample包，下载解压后，选择node版本，打开后将node_module里面jssha文件复制到项目内的node_module里面即可 可打开https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK.html中附录6-DEMO页面和示例代码 进行下载，也可直接点击http://demo.open.weixin.qq.com/jssdk/sample.zip进行下载

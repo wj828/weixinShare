@@ -18,7 +18,7 @@ http://demo.open.weixin.qq.com/jssdk/sample.zip
 
 npm run dev 
 
-## 本项目中使用了npm,每次修改接口不需要重启
+本项目中使用了npm,每次修改接口不需要重启
 
 ## 访问地址
 

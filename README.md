@@ -25,3 +25,4 @@ http://localhost:8080  或 http://localhost:8080/index.html
 
 
 ## 微信分享流程图
+见根目录下微信分享流程图.docx文件

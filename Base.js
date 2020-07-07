@@ -1,5 +1,5 @@
 var request = require('request');
-var until = require('./server/until/until')
+var until = require('./until')
 module.exports= {
   wxconfig: function(req,res,next){
     // 最初始时，global中不存在wxshare会导致报错

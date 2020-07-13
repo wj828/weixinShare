@@ -80,6 +80,9 @@ module.exports= {
     }
   },
   checkWx: function(req, res){
-    res.send('添加js安全域名时MP_verify_Re09yKUQYwCBoUx7.txt文件中的内容');
+    console.log(req.connection.remoteAddress)
+    console.log(req.socket.remoteAddress)
+    res.send("数据啦啦啦啦啦")
+    // res.send('添加js安全域名时MP_verify_Re09yKUQYwCBoUx7.txt文件中的内容');
   }
 }

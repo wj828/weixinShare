@@ -12,6 +12,6 @@ app.use(bodyParser.urlencoded({
 app.use('/', express.static('./static'));
 app.post('/signture',Base.wxconfig)
 app.get('/MP_verify_Re09yKUQYwCBoUx7.txt', Base.checkWx);
-app.listen(8080, function(){
+app.listen(8080,"0.0.0.0", function(){
   console.log("服务启动")
 })
